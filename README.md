@@ -1,14 +1,13 @@
 # MATLAB Implementation of X-means
 
-
 This code is a MATLAB implementation of the X-means originally implemented
 in Python by Y. GOTO.
 
 The original Python code can be found at:
-https://gist.github.com/yasaichi/254a060eff56a3b3b858
+<a href="https://gist.github.com/yasaichi/254a060eff56a3b3b858" target="_blank">https://gist.github.com/yasaichi/254a060eff56a3b3b858</a>
 
 Reference:
-http://www.rd.dnc.ac.jp/~tunenori/doc/xmeans_euc.pdf
+<a href="http://www.rd.dnc.ac.jp/~tunenori/doc/xmeans_euc.pdf" target="_blank">http://www.rd.dnc.ac.jp/~tunenori/doc/xmeans_euc.pdf</a>
 
 Author: N. Masuyama
 
